@@ -1,0 +1,18 @@
+2.1.2 
+	The average number of exchanges is exactly 1 because there are exactly N exchanges and N items.
+The maximum number of exchanges is N, as in the following example.
+
+2.1.3
+	N^2/4(倒序数组即可)
+
+2.1.5
+	顺序排列即可
+2.1.6
+	当然是插入要快
+2.1.7
+	当然是选择要快（插入需要交换次数太多了）
+2.1.8
+	当然是平方级别的，有什么意义吗
+2.1.10
+	选择排序用在希尔里没有意义，因为希尔排序利用的就是插入排序能根据数据类型而改变
+
